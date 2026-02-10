@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+gunicorn
 sqlalchemy
 python-dotenv
 asyncpg
@@ -10,3 +11,4 @@ python-jose[cryptography]
 python-multipart
 aiosqlite
 httpx
+
